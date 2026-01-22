@@ -16,7 +16,7 @@ You can play **Player vs Player** or **Player vs Computer** with an optional GUI
 ![WhatsApp Image 2026-01-22 at 4 19 57 PM](https://github.com/user-attachments/assets/dbb0a945-456f-4f06-8571-7c26a6adfc77)
 
 ## How to Run
-1. Clone the repository:
+Clone the repository:
 ```bash
 git clone https://github.com/T1A3105/Tic-Tac-Toe.git
 cd Tic-Tac-Toe-Python
